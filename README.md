@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot of languages, in special web languages, for example: HTML5, CSS3, JavaScript and PHP. I am from Brasil and I'm a 18 years old.
 
-🔭 Actually, I am unemployed and I need a internship. And I doing college, specifically Computer Engeneering.
+🔭 Actually, I am unemployed and I need a internship. And I doing university, specifically Computer Engeneering.
 
 👯 I’m looking to collaborate on a lot of projects, startups or courses.
 
