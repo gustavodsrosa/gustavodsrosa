@@ -25,7 +25,7 @@ Prazer, sou Gustavo Rosa e sou um programador iniciante. Gosto de programar em v
 
 -- Tenho feito cursos em vários institutos: Udemy, Coursera, Udacity, CC50 e outros ....
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 Pleasure, I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot of languages, in special web languages, for example: HTML5, CSS3, JavaScript and PHP. I am from Brasil and I'm a 18 years old.
 
