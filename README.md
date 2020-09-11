@@ -15,13 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot of languages, in special web languages, for example: HTML5, CSS3, JavaScript and PHP. I am from Brasil and I'm a 18 years old.
+Prazer, sou Gustavo Rosa e sou um programador iniciante. Gosto de programar em várias linguagens, em linguagens especiais da web, por exemplo: HTML5, CSS3, JavaScript e PHP. Eu sou do Brasil e tenho 18 anos.
+
+🔭 Na verdade, estou desempregado e preciso de um estágio. E estou fazendo faculdade, especificamente Engenharia de Computação.
+
+👯 Estou procurando colaborar em muitos projetos, startups ou cursos.
+
+-- Falo português e um pouco de inglês, e estou aprendendo espanhol e italiano ..
+
+-- Tenho feito cursos em vários institutos: Udemy, Coursera, Udacity, CC50 e outros ....
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Pleasure, I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot of languages, in special web languages, for example: HTML5, CSS3, JavaScript and PHP. I am from Brasil and I'm a 18 years old.
 
 🔭 Actually, I am unemployed and I need a internship. And I doing university, specifically Computer Engeneering.
 
 👯 I’m looking to collaborate on a lot of projects, startups or courses.
 
--- I speak Portuguese and a little bit of English, and I am learning Spanish and Italian..
+-- I speak Portuguese and a little bit of English, and I am learning Spanish and Italian ..
 
--- I've doing courses in a lot of institutes: Udemy, Coursera, Udacity, CC50, and others....
+-- I've doing courses in a lot of institutes: Udemy, Coursera, Udacity, CC50, and others ....
 
