@@ -21,7 +21,7 @@ I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot o
 
 👯 I’m looking to collaborate on a lot of projects, startups or courses.
 
--- I speak Portuguese and English, and I am learning Spanish and Italian..
+-- I speak Portuguese and a little bit of English, and I am learning Spanish and Italian..
 
 -- I've doing courses in a lot of institutes: Udemy, Coursera, Udacity, CC50, and others....
 
