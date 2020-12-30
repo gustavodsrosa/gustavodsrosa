@@ -15,25 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Prazer, sou Gustavo Rosa e sou um programador iniciante. Gosto de programar em várias linguagens, em linguagens especiais da web, por exemplo: HTML5, CSS3, JavaScript e PHP. Eu sou do Brasil e tenho 18 anos.
+Prazer, sou Gustavo Rosa e sou programador. Estou estudando e aplicando várias linguagens, porém especializando mais em Python e PHP. Moro no Brasil e tenho 18 anos.
 
-🔭 Na verdade, estou desempregado e preciso de um estágio. E estou fazendo faculdade, especificamente Engenharia de Computação, e um curso Técnico no Senai de Desenvolvimento de Sistemas
+🔭 Atualmente, em busca de emprego. Fazendo faculdade de Engenharia de Computação, e um curso Técnico no Senai de Desenvolvimento de Sistemas.
 
-👯 Estou procurando colaborar em muitos projetos, startups ou cursos.
+👯 Procurando colaborar em projetos, startups ou cursos.
 
--- Falo português e um pouco de inglês, e estou aprendendo espanhol e italiano ..
+-- Português nativo e inglês básico
 
--- Tenho feito cursos em vários institutos: Udemy, Coursera, Udacity, CC50 e outros ....
+-- Realizando cursos e em busca de novas oportunidades
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Pleasure, I'm Gustavo Rosa and I am a beginning programathor. I like to program in a lot of languages, in special web languages, for example: HTML5, CSS3, JavaScript and PHP. I am from Brasil and I'm a 18 years old.
+Pleasure, I am Gustavo Rosa and I'm programathor. I'm studying and applying a lot of languages, but I'm specializing more in Python and PHP. I live in Brazil and I'm 18 years old.
 
-🔭 Actually, I am unemployed and I need a internship. And I doing university, specifically Computer Engeneering, and a technical course in Senai of System Development.
+🔭 Actually, in search of a job. I'm doing university of Computer Engeneering, and a Technical course of System Development into Senai.
 
-👯 I’m looking to collaborate on a lot of projects, startups or courses.
+👯 Searching collaborate in projects, startups or courses.
 
--- I speak Portuguese and a little bit of English, and I am learning Spanish and Italian ..
+-- Native portuguese and basic English.
 
--- I've doing courses in a lot of institutes: Udemy, Coursera, Udacity, CC50, and others ....
+-- Realizing courses and searching new opportunities.
+
 
