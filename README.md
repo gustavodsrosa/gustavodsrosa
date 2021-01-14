@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Prazer, sou Gustavo Rosa e sou programador. Estou estudando e aplicando várias linguagens, porém especializando mais em Python e PHP. Moro no Brasil e tenho 18 anos.
 
-🔭 Atualmente, em busca de emprego. Fazendo faculdade de Engenharia de Computação, e um curso Técnico no Senai de Desenvolvimento de Sistemas.
+🔭 Atualmente, em busca de emprego. Fazendo faculdade de Engenharia de Computação.
 
 👯 Procurando colaborar em projetos, startups ou cursos.
 
@@ -29,7 +29,7 @@ Prazer, sou Gustavo Rosa e sou programador. Estou estudando e aplicando várias 
 
 Pleasure, I am Gustavo Rosa and I'm programathor. I'm studying and applying a lot of languages, but I'm specializing more in Python and PHP. I live in Brazil and I'm 18 years old.
 
-🔭 Actually, in search of a job. I'm doing university of Computer Engeneering, and a Technical course of System Development into Senai.
+🔭 Actually, in search of a job. I'm doing university of Computer Engeneering.
 
 👯 Searching collaborate in projects, startups or courses.
 
